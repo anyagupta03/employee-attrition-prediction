@@ -1,4 +1,3 @@
-# employee-attrition-prediction
 
 # 📊 Employee Attrition Prediction
 
